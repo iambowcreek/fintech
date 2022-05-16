@@ -7,3 +7,4 @@ go on
 come on
 
 Last one line
+I am adding a new line to the file
