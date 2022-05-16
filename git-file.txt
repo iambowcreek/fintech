@@ -1,6 +1,7 @@
 A computer program can easily produce gibberish - especially if it has been provided with garbage beforehand. This program does something a little different. 
 
-The system is not available between 7:15 a.m. and 7:45 a.m., Eastern Time, every Tuesday. At any time, please ensure you log out of the system when you are done and do not leave your session unattended.
+
+vailable between 7:15 a.m. and 7:45 a.m., Eastern Time, every Tuesday. At any time, please ensure you log out of the system when you are done and do not leave your session unattended.
 
 
 go on 
